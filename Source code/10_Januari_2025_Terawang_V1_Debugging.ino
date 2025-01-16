@@ -900,3 +900,5 @@ void pengukuranSensor8() {
   
   delay(2000);   
 }
+
+//test commit
