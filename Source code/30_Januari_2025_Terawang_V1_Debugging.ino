@@ -1,3 +1,5 @@
+//Gunakan TeensyDuino versi 1.58.2
+
 #include <IntervalTimer.h> // library timer teensy 4.1
 
 // Deklarasi objek IntervalTimer
