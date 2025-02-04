@@ -1,4 +1,4 @@
-Source Code aplikasi untuk sementara dapat diakses di https://github.com/ciaohanmarker/terawang_v1/tree/Add-storage
+Source Code aplikasi secara full dapat diakses di https://github.com/ciaohanmarker/terawang_v1/tree/Add-storage
 
 Input data secara manual dapat dilakukan melalui serial monitor dengan menghubungkan Bluetooth Classic (HC-05) dengan mikrokontroller.
 
